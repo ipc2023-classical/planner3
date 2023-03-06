@@ -42,7 +42,7 @@ Stage: run
     PROBLEMFILE="$2"
     PLANFILE="$3"
 
-    python3.11 /planner/fast-downward.py --overall-memory-limit "8G" --plan-file "$PLANFILE" "$DOMAINFILE" "$PROBLEMFILE" --search "sym-bd()"
+    python3.11 /planner/fast-downward.py --overall-memory-limit "8G" --plan-file "$PLANFILE" "$DOMAINFILE" "$PROBLEMFILE" --search "sym-bd(silent=true)"
 
 %labels
     Name        Symk
