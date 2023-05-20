@@ -159,7 +159,7 @@ We appreciate citations of these sources when used.
  You can find examples of domains with state-dependent action cost [here](https://github.com/speckdavid/SDAC-Benchmarks).
 
 We want to acknowledge that SymK is based on:
- - Fast Downward (22.06): http://www.fast-downward.org/ and [FD_README.md](FD_README.md) 
+ - Fast Downward (22.06): http://www.fast-downward.org/
  - Symbolic Fast Downward: https://people.cs.aau.dk/~alto/software.html
 
 Finally, SymK uses some external software, which can be found in the following folders
