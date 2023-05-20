@@ -1,14 +1,14 @@
-Sym-k is mainly based on Fast Downward, which is why the following applies.
+### GNU GENERAL PUBLIC LICENSE
 
-The following directories are not part of Fast Downward as covered by this
-license:
+Version 3, 29 June 2007
 
-* [./src/search/ext](./src/search/ext)
-* [./src/search/sdac_parser/boost_dependencies](./src/search/sdac_parser/boost_dependencies) see [Boost Software License Version 1.0](http://www.boost.org/LICENSE_1_0.txt)
-* [./src/dd_libs/cudd-3.0.0](./src/dd_libs/cudd-3.0.0): see [CUDD License](./src/dd_libs/cudd-3.0.0/LICENSE) 
+Copyright (C) 2007 Free Software Foundation, Inc.
+<https://fsf.org/>
 
-For the rest, the following license applies:
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
 
+### Preamble
 
 The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
