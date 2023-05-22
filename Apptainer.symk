@@ -48,7 +48,7 @@ Stage: run
     Name        Symk
     Description Symbolic bidirectional blind search 
     Authors     David Speck <david.speck@liu.se>
-    License     GPL 3, BSD 3-Clause "New" or "Revised" License, Boost Software License 1.0 (see LICENSE.md for more information)
+    License     GPL 3
     Tracks      optimal
     SupportsDerivedPredicates                       yes
     SupportsUniversallyQuantifiedPreconditions      yes
